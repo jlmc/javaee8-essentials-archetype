@@ -23,10 +23,10 @@ This command will create the archetype in your local repository
 2. After the previous step we are able to create a project using this archetype 
 
 ```
-mvn archetype:generate 								\
- -DarchetypeGroupId=org.jcosta 						\
+mvn archetype:generate \
+ -DarchetypeGroupId=org.jcosta \
  -DarchetypeArtifactId=javaee8-essentials-archetype \
- -DarchetypeVersion=0.0.1 							\
- -DgroupId=<your groupId> 							\
+ -DarchetypeVersion=0.0.1 \
+ -DgroupId=<your groupId> \
  -DartifactId=<your artifactId>
 ```
