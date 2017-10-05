@@ -6,8 +6,6 @@
     <version>0.0.1</version>
     <name>javaee8-essentials-archetype</name>
     <description>Java EE 8 project quickstart template. Clean, lean and minimalistic.</description>
-    <!--<packaging>jar</packaging>-->
-
     <url>http://costajlmpp.wordpress.com</url>
     <organization>
         <name>Joao Costa</name>
@@ -33,7 +31,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <failOnMissingWebXml>false</failOnMissingWebXml>
     </properties>
-
     <packaging>maven-archetype</packaging>
     <build>
     	<extensions>
@@ -53,4 +50,11 @@
         </pluginManagement>
 
     </build>
+
+    <scm>
+        <connection>scm:git:git@github.com:jlmc/javaee8-essentials-archetype.git</connection>
+        <url>scm:git:git@github.com:jlmc/javaee8-essentials-archetype.git</url>
+        <developerConnection>scm:git:git@github.com:jlmc/javaee8-essentials-archetype.git</developerConnection>
+        <tag>0.0.1</tag>
+    </scm>
 </project>
