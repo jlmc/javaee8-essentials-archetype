@@ -1,4 +1,4 @@
-package com.airhacks;
+package org.jcosta;
 
 import javax.ws.rs.ApplicationPath;
 import javax.ws.rs.core.Application;
