@@ -25,7 +25,7 @@ This command will create the archetype in your local repository
 ```
 mvn archetype:generate \
  -DinteractiveMode=false \
- -DarchetypeGroupId=org.costajlmpp \
+ -DarchetypeGroupId=io.costax \
  -DarchetypeArtifactId=javaee8-essentials-archetype \
  -DarchetypeVersion=0.0.1 \
  -DgroupId=<your groupId> \

@@ -1,4 +1,4 @@
-package org.costajlmpp.ping.boundary;
+package io.costax.ping.boundary;
 
 import javax.ws.rs.GET;
 import javax.ws.rs.Path;
