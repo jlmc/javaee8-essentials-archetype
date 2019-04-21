@@ -3,7 +3,7 @@
 
     <groupId>io.costax</groupId>
     <artifactId>javaee8-essentials-archetype</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.4</version>
     <name>javaee8-essentials-archetype</name>
     <description>Java EE 8 project quickstart template. Clean, lean and minimalistic.</description>
     <url>http://costajlmpp.wordpress.com</url>

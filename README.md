@@ -27,7 +27,7 @@ mvn archetype:generate \
  -DinteractiveMode=false \
  -DarchetypeGroupId=io.costax \
  -DarchetypeArtifactId=javaee8-essentials-archetype \
- -DarchetypeVersion=0.0.1 \
+ -DarchetypeVersion=0.0.4 \
  -DgroupId=<your groupId> \
  -DartifactId=<your artifactId>
 ```

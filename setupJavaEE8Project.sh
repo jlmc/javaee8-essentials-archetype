@@ -4,7 +4,7 @@ PROJECT_NAME=$1
 mvn archetype:generate                                  \
   -DarchetypeGroupId=io.costax                			\
   -DarchetypeArtifactId=javaee8-essentials-archetype    \
-  -DarchetypeVersion=0.0.1                				\
+  -DarchetypeVersion=0.0.4                				\
   -DgroupId=io.costax                                	\
   -DartifactId=${PROJECT_NAME}							\
   -Dversion=0.0.1										\
